@@ -1,3 +1,5 @@
+## This repos Package.swift has been updated to work with WhisperKit
+
 # LocalLLMClient
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
